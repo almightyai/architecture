@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Key Suggestions for Architects
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 # Key Suggestions for Effective Architectural Design and Leadership
