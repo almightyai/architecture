@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Built-in Data Types and Operations
-parent: Python Foundations
+parent: Embracing Self-Awareness. The Key to Personal and Professional Growth
 nav_order: 4
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quick Setup Python Environment and Tools
-parent: Python Foundations
+parent: Embracing Self-Awareness. The Key to Personal and Professional Growth
 nav_order: 2
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pythonic Syntax Indentation, Statements, and Blocks
-parent: Python Foundations
+parent: Embracing Self-Awareness. The Key to Personal and Professional Growth
 nav_order: 3
 has_children: true
 ---

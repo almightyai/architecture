@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python Foundations
+title: Embracing Self-Awareness. The Key to Personal and Professional Growth
 nav_order: 1
 has_children: true
 ---
