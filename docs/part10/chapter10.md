@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communicate Clearly
+title: Appropriate Solutions
 parent: Managing Requirements
 nav_order: 10
 ---
