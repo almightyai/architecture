@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Key Insights for Architects
+# Comprehensive Guidance for Architects
 
 This document offers comprehensive guidance for architects, covering a wide range of topics that are crucial for successful project execution, from understanding the importance of rationalizing experiences and challenging assumptions, to focusing on building effective relationships and maintaining simplicity in design.
 
