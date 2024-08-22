@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Practice Diligence
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 6
 ---
 # Practice Diligence: The Key to Success Through Perseverance, Attention to Detail, and Consistency

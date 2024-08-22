@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Use Checklists
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 7
 ---
 # Use Checklists: A Simple Tool for Reinforcing Good Habits and Effective Knowledge Application

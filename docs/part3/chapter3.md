@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluate Learning from Experience
-parent: Recruiting and Managing Teams
+parent: Human Resources
 nav_order: 3
 ---
 # Evaluate Learning from Experience: The Power of Reflecting on Past Projects in the Hiring Process

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prioritize Problem-Solving Skills
-parent: Recruiting and Managing Teams
+parent: Human Resources
 nav_order: 1
 ---
 # Prioritize Problem-Solving Skills: The Key to Building a Strong Development Team

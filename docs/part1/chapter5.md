@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maintain Healthy Relationships
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 5
 ---
 # Maintain Healthy Relationships: Fostering Connections Without Letting Ego Interfere

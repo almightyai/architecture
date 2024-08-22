@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Listen More, Speak Less
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 4
 ---
 # Listen More, Speak Less: The Power of Staying Humble and Open to Input

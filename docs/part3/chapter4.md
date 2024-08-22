@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understand Team Dynamics
-parent: Recruiting and Managing Teams
+parent: Human Resources
 nav_order: 4
 ---
 # Understand Team Dynamics: The Art of Designing Roles That Harness the Strengths of Your Team

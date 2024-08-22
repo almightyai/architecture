@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Be Hands-On
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 5
 ---
 # Be Hands-On: The Importance of Coding What You Design

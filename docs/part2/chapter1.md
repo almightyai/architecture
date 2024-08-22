@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understanding the Business Context
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 1
 ---
 # Understanding the Business Context: A Crucial Responsibility for Architects

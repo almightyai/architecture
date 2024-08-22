@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apply Common Sense
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 7
 ---
 # Apply Common Sense: The Foundation of Practical and Effective Architectural Design

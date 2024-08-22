@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acknowledge Your Flaws
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 1
 ---
 # Acknowledge Your Flaws: The Path to Growth Through Self-Awareness

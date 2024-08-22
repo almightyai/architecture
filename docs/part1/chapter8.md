@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Communicate Clearly
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 8
 ---
 # Communicate Clearly: The Importance of Expressing Goals and Ideas in a Clear, Concise Manner

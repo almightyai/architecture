@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prioritize Human Factors
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 4
 ---
 # Prioritize Human Factors: Integrating the Human Element into Architectural Design

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Embracing Self-Awareness
+title: General Guidance
 nav_order: 1
 has_children: true
 ---
-# Embracing Self-Awareness: The Key to Personal and Professional Growth
+# General Guidance: Embracing Self-Awareness is The Key to Personal and Professional Growth
 
 1. **Acknowledge Your Flaws**: Recognize that your conclusions may not be entirely correct and be open to improving through self-awareness.
 

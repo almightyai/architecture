@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Key Suggestions for Architects
+title: Architectural Responsibilities
 nav_order: 2
 has_children: true
 ---
-# Key Suggestions for Effective Architectural Design and Leadership
+# Architectural Responsibilities: Effective Architectural Design and Leadership
 
 1. **Understand the Business Context**: Architects should have a deep understanding of the business domain, business problems, goals, and industry trends to design effective architectures.
 

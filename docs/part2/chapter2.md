@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acting as a Bridge
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 2
 ---
 # Acting as a Bridge: The Crucial Role of Architects in Uniting Business and Technology

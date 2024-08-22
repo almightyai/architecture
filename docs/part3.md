@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recruiting and Managing Teams
+title: Human Resources
 nav_order: 3
 has_children: true
 ---

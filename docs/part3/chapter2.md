@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assess Problem-Solving Methods
-parent: Recruiting and Managing Teams
+parent: Human Resources
 nav_order: 2
 ---
 # Assess Problem-Solving Methods: A Key Strategy in Identifying Top Talent During Interviews

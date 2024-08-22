@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Check Your Ego
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 6
 ---
 # Check Your Ego: Let Requirements and Collaboration Drive Your Architectural Decisions

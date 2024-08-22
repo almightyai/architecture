@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Speak the Right Language
-parent: Key Suggestions for Architects
+parent: Architectural Responsibilities
 nav_order: 3
 ---
 # Speak the Right Language: The Key to Effective Communication Across Business and Technology

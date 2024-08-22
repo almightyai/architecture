@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Separate Criticism from Self
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 9
 ---
 # Separate Criticism from Self: How to Use Feedback as a Tool for Growth

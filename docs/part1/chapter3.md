@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Your Ideas
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 3
 ---
 # Test Your Ideas: The Importance of Debate in Strengthening Your Beliefs

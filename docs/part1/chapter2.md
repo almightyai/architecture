@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rationalize Your Experiences
-parent: Embracing Self-Awareness
+parent: General Guidance
 nav_order: 2
 ---
 # Rationalize Your Experiences: The Power of Logical Thinking and Clear Communication
