@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Keep It Simple and Avoid Over-Complication
 parent: Keep it Simple
 nav_order: 6
 ---

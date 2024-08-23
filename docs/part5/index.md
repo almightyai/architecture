@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Management
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 # Project Management for Architects

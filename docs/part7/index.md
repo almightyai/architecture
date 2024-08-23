@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stakeholders
-nav_order: 6
+nav_order: 8
 has_children: true
 ---
 # Stakeholders: Key Suggestions for Architects

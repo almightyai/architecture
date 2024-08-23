@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Guidance
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 # General Guidance: Embracing Self-Awareness is The Key to Personal and Professional Growth

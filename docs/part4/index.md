@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team and Communication
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 # Team and Communication: Key Suggestions for Effective Leadership
